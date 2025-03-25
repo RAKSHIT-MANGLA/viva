@@ -1,1 +1,1 @@
-This  demonstrates Git merge conflict resolution.
+This  demonstrates Git merge conflict resolution in new branch.
